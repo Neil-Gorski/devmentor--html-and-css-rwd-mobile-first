@@ -1,36 +1,40 @@
 /* ./css/global.css */
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: Georgia, 'Times New Roman', serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
-header, main, section, article, footer {
-    border: 3px solid #fff;
-    min-height: 50px;
+header,
+main,
+section,
+article,
+footer {
+  border: 3px solid #fff;
+  min-height: 50px;
 }
 
-header { 
-    border-color: #ffffba; 
+header {
+  border-color: #ffffba;
 }
 
-main { 
-    border-color: #ffdfba; 
+main {
+  border-color: #ffdfba;
 }
 
-section { 
-    border-color: #ffb3ba; 
+section {
+  border-color: #ffb3ba;
 }
 
-article { 
-    border-color: #baffc9; 
+article {
+  border-color: #baffc9;
 }
 
-footer { 
-    border-color: #bae1ff; 
+footer {
+  border-color: #bae1ff;
 }
